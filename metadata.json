@@ -1,0 +1,7 @@
+{
+  "name": "AI Image and Video Generator",
+  "description": "Use AI to edit images and generate videos from text prompts and source images. Powered by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
